@@ -1,2 +1,2 @@
 # dark-labyrinth
-[ноушн]([docs/CONTRIBUTING.md](https://www.notion.so/dog-doba-duba/1151267eb2f74d20b736fadb73d79abf?pvs=4)https://www.notion.so/dog-doba-duba/1151267eb2f74d20b736fadb73d79abf?pvs=4)
+[ноушн](https://www.notion.so/dog-doba-duba/b2e29a2d945c423e9a0f054cce9e8b7d?pvs=4)
